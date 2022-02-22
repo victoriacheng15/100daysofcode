@@ -27,7 +27,7 @@ source: [Difference between addEventListenter and onclick in JavaScript](https:/
   
 ### function
 
-- Functions are the main "builfing blocks" of the programs. 
+- Functions are the main "building blocks" of the programs. 
   - They aloow the code to be called many times without repetitions.
 
 ```js
