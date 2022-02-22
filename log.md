@@ -38,6 +38,12 @@ function showMessage() {
 - Functions also take parameters or arguements inside the `()` after the function name.
 - What to do if there is no parameters?
   - Function also takes a default value by changing `(name)` to `(name = 'Stranger')`
+- How do you name functions?
+  - Function is action and ususally name it with a verb
+    - `get.....` - return a vale
+    - `calc.....` - calc something
+    - `create....` - create something
+    - `check....` - check something
 
 ```js
 // without default value
