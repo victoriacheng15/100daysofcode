@@ -7,9 +7,9 @@ Diffenences:
 | type              | addEventListener               | onclick                   |
 | ----------------- | ------------------------------ | ------------------------- |
 | number of event   | many events                    | single event              |
-| event propagation | can control with 3rd arguement | cant control              |
+| event propagation | can control with 3rd argument  | cant control              |
 | how to add        | `<script>` or  JS file         | HTML attribute or JS file |
-| compability       | Doesn't work on older IE       | works in all brwosers     |
+| compatibility     | Doesn't work on older IE       | works in all browsers     |
 
 source: [Difference between addEventListenter and onclick in JavaScript](https://www.geeksforgeeks.org/difference-between-addeventlistener-and-onclick-in-javascript/)
 
