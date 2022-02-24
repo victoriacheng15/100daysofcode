@@ -154,7 +154,64 @@ ask("Do you agree?", showAgree, showDisagree);
 
 ## Day 4
 
-placeholder
+### Arrow Function, the basics
+
+There is another very simple and concise synthax for creating functions! It is the `arrow function`!
+
+
+The general foramt shows below: 
+```js
+// arrow function
+let func = (arg1, arg2, ..., argN) => expression;
+
+//or 
+
+const func = (arg1, arg2, ...args) => expression;
+```
+
+Let's see more examples!
+
+Both functions below works the same way and will return the same value. The `arrow function` allows us to write one line code and without `return` keybord.
+
+Let's break down on how to convert the function below to arrow function
+```js
+const sum = function (a, b) {
+  return a + b;
+};
+
+// first - remove "function" 
+const sum = (a, b)
+// second - add arrow =>
+const sum = (a, b) => 
+//third - add expression
+const sum = (a, b) => a + b // no curly bracket, so the returen is not needed here
+
+// you can also write like this if you need to pass more actions within the function
+const sum = (a, b) => { // with curly bracket present, return is needed
+ // do more than one thing
+ let extra = 30
+ return a - b + extra
+}
+```
+
+Arrow function doesn't work with `this` keyword, so keep this in mind.
+
+```js
+// regular function
+function logThis() {
+  console.log(this)
+}
+
+document.addEventListener('click', logThis); // this will refers to the document
+
+// arrow function
+const logThisArrow = () => {
+  console.log(this);
+};
+
+document.addEventListener('click', logThisArrow); // this will refers to the global object
+```
+
 
 ## Day 5
 
