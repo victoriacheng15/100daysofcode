@@ -215,7 +215,103 @@ document.addEventListener('click', logThisArrow); // this will refers to the glo
 
 ## Day 5
 
-placeholder
+### Loops
+
+How do you write code that display numbers between 1 and 5? You could write like this below. But what if you need to write the exact same code for numbers between 1 and 100? 
+
+```js
+console.log(1);
+console.log(2);
+console.log(3);
+console.log(4);
+console.log(5);
+```
+
+Couple wasy to write repeated statement
+
+### the `while` loop
+
+```js
+while (condition) {
+  // do something
+}
+
+// example
+let number = 1; // declare the variable and assign 1
+while (number <= 5) {
+  console.log(number);
+  number++;
+}
+```
+
+The condition in parentheses is evaluted to determine whether it is true or not.
+  - if `true`, the code in the while loop's body wrtie. And then it continues running until the condition is evaluted to false
+  - if `false , the code stop run or doesn't run.
+
+### the `for` loop
+
+```js
+for (initailization; condition; final expression) {
+  // do something
+}
+
+// example
+for (let i = 1; i <= 5; i++) {
+  console.log(i); // logging number 1 to 5
+}
+```
+- `initalization` - it is to set initial value of the variable, such as `let i = 0`
+- `condition` - it is to evaluated the condtion before the loop runs each time. 
+  - if `true`, the code runs
+  - if `false`, the code doesn't run
+- `final expression` - it is oftne to update the value of the variable, such as `i++`
+
+
+### Common mistakes
+
+- the while loop
+
+```js
+let number = 1;
+while (number <= 5) {
+  console.log(number);
+  // without number++, the variable is never updated and the loop conditon stays forever
+}
+```
+It will cause the loops run forever and never stop. It also will crash your browser!
+
+- the for loop
+
+```js
+for (let i = 1; i <= 5; i++) {
+  console.log(i);
+  i++; // The i variable is updated in the loop body
+}
+// result: 1 3 5
+```
+In this case, the code is running incremeneted twice inside the paraenthese and curly bracket.
+
+### FizzBuzz
+
+The [rule](https://en.wikipedia.org/wiki/Fizz_buzz):
+  - if the number is divisible by 3, log Fizz
+  - if the number is divisible by 5, log Buzz
+  - if the number is divisible by 15, log FizzBuzz
+
+```js
+for (let i = 1; i < 101; i++) {
+  if (i % 15 === 0) {
+    console.log("FizzBuzz");
+  } else if (i % 3 === 0) {
+    console.log("Fizz");
+  } else if (i % 5 === 0) {
+    console.log("Buzz");
+  } else {
+    console.log(i);
+  }
+}
+```
+
 
 ## Day 6
 
