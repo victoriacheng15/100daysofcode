@@ -1,4 +1,6 @@
-<!-- Links - [Day 5](#day-5) -->
+## Links 
+
+[Day 5](#day-5)
 ## Day 1 
 
 I made a simple background color picker to show cofffee colors! It also changes images once you clicked! I used onclick event listener instead of addEventListener. Personally, I dont use onclick event listener function but, I am curious what are the differences between onclick and addEventListener. 
@@ -312,10 +314,28 @@ for (let i = 1; i < 101; i++) {
 }
 ```
 
+[Back to top](#links)
 
 ## Day 6
 
-placeholder
+### what is garbage collection?
+
+In general, garbage is something that is no longer of use.  In JavaScript, it is a memory management that help us to managing memory space. What are things that take up memory? We declare variables and then assign values to them. e.g. `let message = 'Hello'` or `let a = 5` or etc.
+
+But how does JavaScript know when something is not needed anymore? The main way to decide is `reachability`. In short, if the values are still **reachable** as in still accessible and usable, they will stay in the memory. 
+
+There is a background process called garbage collector that monitors all objects and remove those values that become **unreachable**. And it is running automatically in the background.
+
+For example,
+
+```js
+let user = {
+  name: "John"
+};
+```
+
+The `name: 'John'` is stored in the memory. 
+Let's say we assign different value to `user`, `user = null` and what happened to `name: 'John'`? The name 'John'  becomes **unreachable**. As mentioned above, any vales become **unreachable" and the garbage collector will throw out the data and free up space in the memory.
 
 ## Day 7
 
