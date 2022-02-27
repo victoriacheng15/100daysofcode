@@ -1,6 +1,6 @@
 ## Links 
 
-[Day 5](#day-5)
+[Day 5](#day-5) [Day 10](#day-10)
 ## Day 1 
 
 I made a simple background color picker to show cofffee colors! It also changes images once you clicked! I used onclick event listener instead of addEventListener. Personally, I dont use onclick event listener function but, I am curious what are the differences between onclick and addEventListener. 
@@ -339,6 +339,94 @@ Let's say we assign different value to `user`, `user = null` and what happened t
 
 ## Day 7
 
+### The `switch` statement
+
+A `switch` statement can replace multiple `if` checks.
+
+let's see `if else` function below. It can look really confused and get lost easily. A `switch` can offer readable code.
+
+FizzBuzz example: 
+```js
+for (let i = 1; i < 101; i++) {
+  if (i % 15 === 0) {
+    console.log("FizzBuzz");
+  } else if (i % 3 === 0) {
+    console.log("Fizz");
+  } else if (i % 5 === 0) {
+    console.log("Buzz");
+  } else {
+    console.log(i);
+  }
+}
+```
+
+A `switch` statement looks like this:
+
+```js
+switch(x) {
+  case 'value1':  // if (x === 'value1')
+    ...
+    [break]
+
+  case 'value2':  // if (x === 'value2')
+    ...
+    [break]
+
+  default:
+    ...
+    [break]
+}
+```
+
+This checks the value of `x` with first `case 'value1'` and will continue until the equality is found. If no case is matched then the `default` code will be executed.
+
+let's see a simple example of `switch` statement.
+
+```js
+let a = 2 + 2;
+
+switch (a) {
+  case 3:
+    console.log('Too small');
+    break;
+  case 4:
+    console.log('Exactly!');
+    break;
+  case 5:
+    console.log('Too big');
+    break;
+  default:
+    console.log("I don't know such values");
+}
+```
+
+The `switch` starts to compare `a` with all cases:
+- first case `3`, it doesn't match `a`
+- second case `4`, it matches and console will shows 'Exactly!'.
+
+What if you forgot add `break` between `case`? The execution continues with `case` without any checks and we will see `Too small`, 'Exactly!`, and `Too big` on browser's console. 
+
+
+Let's convert FizzBuzz example to `switch` statement.
+
+```js
+for (let i = 1; i < 101; i++) {
+  switch (true) {
+    case i % 15 === 0:
+      console.log('FizzBuzz');
+      break;
+    case i % 3 === 0:
+      console.log('Fizz');
+      break;
+    case i % 5 === 0:
+      console.log('Buzz');
+      break;
+    default:
+      console.log(i);
+  }
+}
+```
+
 placeholder
 
 ## Day 8
@@ -352,3 +440,5 @@ placeholder
 ## Day 10
 
 placeholder
+
+[Back to top](#links)
