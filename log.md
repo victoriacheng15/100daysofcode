@@ -426,12 +426,41 @@ for (let i = 1; i < 101; i++) {
   }
 }
 ```
-
-placeholder
-
 ## Day 8
 
-placeholder
+### What is hoisting? 
+
+```js
+console.log(message); // return undefined
+var message = 'hello'
+```
+
+In JavaScript, hoisting allows you to puse function and variables before they're declared. Which is why the code above return `undefined` value in the browser's console.
+
+### Variable hoisting
+
+There are 3 ways to declare a variables with `var`, `let`, and `const`. 
+
+Let's see `var` hoisting. If you copy the code below on your JavaScript file, the first console.log returns `undefeind` while second console.log returns `hello`.
+
+```js
+console.log(message); // undefined
+var message = 'hello'
+console.log(message); // hello
+```
+
+Remember, JavaScript reads code from top to bottom. If you are trying to console.log the variable before it is declared, it will retun `undefined` if you use `var` to declare. 
+
+now, let's see `let` and `const` hoisting
+
+```js
+console.log(message); // reference error: cannot access 'message' before initialization
+let message = 'hello'
+```
+
+If you change `let` to `const` in the code above, the console will show the same error.
+
+In short, variable declared with `var` is hoisted and **initialized** its value to `undefeind`, while `let` and `const` are hoisted but **not initialized**. Which is why `let` and `const` returns `ReferenceError`. JavaScript is weird in this case. It allows us to use variable before declaration and it leads to alot of confused. 
 
 ## Day 9
 
