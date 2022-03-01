@@ -15,7 +15,7 @@ Diffenences:
 
 source: [Difference between addEventListenter and onclick in JavaScript](https://www.geeksforgeeks.org/difference-between-addeventlistener-and-onclick-in-javascript/)
 
-[Coffee background picker](https://victoriacheng15.github.io/100daysofcode/coffee-background-picker/)
+Live site:  [Coffee background picker](https://victoriacheng15.github.io/100daysofcode/coffee-background-picker/)
 
 ## Day 2
 
@@ -464,7 +464,10 @@ In short, variable declared with `var` is hoisted and **initialized** its value 
 
 ## Day 9
 
-placeholder
+Since I learned about the `switch` statement few days ago and wanted to use `switch` for practice. Then I saw that Ania Kubów has a new video [Learn JavaScript by building 7 games](https://www.youtube.com/watch?v=ec8vSKJuZTk) on FreeCodeCamp channel. I decided to made a simple rock paper sicssors game. First, I wrote the script with `if else` statement and then wrote `switch` statement after to see the length of code and readabiliy between both statements.
+
+Live site: [Rock Paper Scissors Game](https://victoriacheng15.github.io/100daysofcode/rock-paper-scissors/)
+
 
 ## Day 10
 
