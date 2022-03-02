@@ -471,6 +471,8 @@ Live site: [Rock Paper Scissors Game](https://victoriacheng15.github.io/100dayso
 
 ## Day 10
 
-placeholder
+I built a memory card game from [Learn JavaScript by building 7 games](https://www.youtube.com/watch?v=ec8vSKJuZTk). I utilized the `for` loop to create images and set attributes. I usually use the `forEach` method. The `this` keyword is a bit difficult to understand and depend on the function, but in this case, `this` will return the information of the **clicked** element such as `data-id`.
+
+Live site: [Memory Game](https://victoriacheng15.github.io/100daysofcode/memory-game/)
 
 [Back to top](#links)
