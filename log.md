@@ -479,7 +479,7 @@ Live site: [Memory Game](https://victoriacheng15.github.io/100daysofcode/memory-
 
 ## Day 11
 
-I built a whack a mole card game from [Learn JavaScript by building 7 games](https://www.youtube.com/watch?v=ec8vSKJuZTk). I utilized the `forEach` to to listen `mousedown` addEventListener. The time and score will update accordingly. I never knew that `mousedown` and `click` are different event listeners. 
+I built a whack a mole card game from [Learn JavaScript by building 7 games](https://www.youtube.com/watch?v=ec8vSKJuZTk). I utilized the `forEach` to to listen `mousedown` addEventListener. The time and score will update accordingly. I never knew that `mousedown` and `click` are different. 
 
 `mousedown`: the event is fired when a pointing device button is **initially** pressed.
 `click`: the event is fired after **a full click action** occours.
