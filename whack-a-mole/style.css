@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: lightblue;
+}
+
+.grid {
+  width: 600px;
+  aspect-ratio: 1;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.square {
+  width: 200px;
+  aspect-ratio: 1;
+  border: 1px solid black;
+}
+
+.mole {
+  background: url('mole.png') no-repeat center;
+  object-fit: fill;
+}
