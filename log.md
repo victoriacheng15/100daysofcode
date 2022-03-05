@@ -485,3 +485,14 @@ I built a whack a mole card game from [Learn JavaScript by building 7 games](htt
 `click`: the event is fired after **a full click action** occours.
 
 Live site: [Whack a Mole Game](https://victoriacheng15.github.io/100daysofcode/whack-a-mole/)
+
+## Day 12
+
+Continuing making a game from [Learn JavaScript by building 7 games](https://www.youtube.com/watch?v=ec8vSKJuZTk). This game is interesting to make and utilized `AND` and `OR` operators to check collisions. Need to take the size of block and ball into account. I found the chainning of `AND` and `OR` is confusing me. I gotta to spend more time on logical oeprators, espically the `||` and `&&`.
+
+Live site: [Break Game](https://victoriacheng15.github.io/100daysofcode/breakout-game/)
+
+
+## Day 13
+
+TBA
