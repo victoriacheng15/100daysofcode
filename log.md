@@ -495,4 +495,6 @@ Live site: [Break Game](https://victoriacheng15.github.io/100daysofcode/breakout
 
 ## Day 13
 
-TBA
+I have read Eloquent JS before, and I didn't really understand a lot of things. Let's read the book chapter 1 to 3 again, I get it this time! Also, I didn't realize that variable is also called `binding`
+
+[Eloquent JavaScript](https://eloquentjavascript.net/)
