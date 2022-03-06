@@ -501,6 +501,6 @@ I have read Eloquent JS before, and I didn't really understand a lot of things. 
 
 ## Day 14
 
-done lessons 1 to 4 (variables, contiditonals, function and scope)! Get that spaced reptition and recall in!
+done with lessons 1 to 4 (variables, conditionals, function and scope)! Get that spaced repetition and recall in!
 
 [Intro to JavaSript on codeademy](https://www.codecademy.com/learn/introduction-to-javascript)
