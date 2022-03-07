@@ -504,3 +504,19 @@ I have read Eloquent JS before, and I didn't really understand a lot of things. 
 done with lessons 1 to 4 (variables, conditionals, function and scope)! Get that spaced repetition and recall in!
 
 [Intro to JavaSript on codeademy](https://www.codecademy.com/learn/introduction-to-javascript)
+
+## Day 15
+
+### All about git
+
+Read [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) to get familar with git terms and how it work
+
+#### terms:
+
+- **repository**: it is a collection of commits, show what project's working tree looks like in the past date, wether on your machine or someone else's. It also defines `HEAD`, which idenfities the branch or commit the current working tree stemmed from. It also contains branches and tags.
+- **HEAD**: it is define what is currently checked out.
+- **the index**: aka the `staging area`, it is where git confirms your change, one by one before doing a commit.
+- **working tree**: any directory on your file system which has a repository assoicated wiht it. It is usually in the `.git` folder
+- **commit**: it is snapshot of your working tree at the some point. This is also the revision history.
+- **branch**: it is a name for a commit, and also called referance. It is the parentage of a commit which defines its history, and considered notion of a "revision history"
+- **tag**: it is also a name fora commit, similar to a branch, except that it always name the same commit, and can have its own description text.
