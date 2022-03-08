@@ -1,6 +1,6 @@
 ## Links 
 
-[Day 5](#day-5) [Day 10](#day-10)
+[Day 5](#day-5) [Day 10](#day-10) [Day 15](#day-15) 
 ## Day 1 
 
 I made a simple background color picker to show cofffee colors! It also changes images once you clicked! I used onclick event listener instead of addEventListener. Personally, I dont use onclick event listener function but, I am curious what are the differences between onclick and addEventListener. 
@@ -520,3 +520,48 @@ Read [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/
 - **commit**: it is snapshot of your working tree at the some point. This is also the revision history.
 - **branch**: it is a name for a commit, and also called referance. It is the parentage of a commit which defines its history, and considered notion of a "revision history"
 - **tag**: it is also a name fora commit, similar to a branch, except that it always name the same commit, and can have its own description text.
+
+[Back to top](#links)
+
+## Day 16
+
+### Passed by Value vs Passed by Reference
+
+**Primitives** are passed by value, meaning their values are copied and then placed somewhere else in the memory. 7 primitive date: string, number, bigint, boolean, null, undefined, and symbol.
+
+**Non-primitive** type is object, and they are passed by reference, meaning their properties are not separately in the memory.
+
+```js
+// objects are passed by reference
+let obj = {
+  name: "John",
+};
+let newObj = obj; 
+newObj.name = "Peter"; 
+// Since both point to the same place...
+console.log(obj); // {name: Peter}
+console.log(newObj); // {name: Peter}
+
+let arr = [1, 2, 3];
+let newArr = arr;
+newArr.push(4);
+console.log(arr); // [1, 2, 3, 4]
+console.log(newArr); // [1, 2, 3, 4]
+```
+
+You can use `Object.assign()` or use the spread operator `{...}` to copy the object. Keep in mind, this method is a `shallow copy`. This means the object only can be copied one level deep, not 2 levels deep.
+
+How do you copy an entire object? Use `JSON.parse(JSON.stringify(originalObj))` and this will copy the nestedKey. Keep it in mind, this method could impact performance.
+
+```js
+const originalObj = {
+  nested: {
+    nestedKey: "nestedValue",
+  },
+  key: "value",
+};
+const assignObj = originalObj; // nestedkey value will change
+const shallowObj = { ...originalObj }; // nestedkey value will change
+const deepObj = JSON.parse(JSON.stringify(originalObj)); // nestedkey balue will NOT change
+// deepObj clones all parts of the object to a new memory address
+```
