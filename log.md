@@ -565,3 +565,9 @@ const shallowObj = { ...originalObj }; // nestedkey value will change
 const deepObj = JSON.parse(JSON.stringify(originalObj)); // nestedkey balue will NOT change
 // deepObj clones all parts of the object to a new memory address
 ```
+
+## Day 17 
+
+done with Codecademu lessons, array, loops, iterator and a bit on objects ! Get that spaced repetition and recall in!
+
+[Intro to JavaSript on codeademy](https://www.codecademy.com/learn/introduction-to-javascript)
