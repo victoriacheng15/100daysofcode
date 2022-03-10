@@ -568,6 +568,6 @@ const deepObj = JSON.parse(JSON.stringify(originalObj)); // nestedkey balue will
 
 ## Day 17 
 
-done with Codecademu lessons, array, loops, iterator and a bit on objects ! Get that spaced repetition and recall in!
+done with Codecademy lessons, array, loops, iterators `high-order function, forEach(), map(), filter(), reduce(), and findIndex()` and a bit on objects ! Get that spaced repetition and recall in!
 
 [Intro to JavaSript on codeademy](https://www.codecademy.com/learn/introduction-to-javascript)
