@@ -571,3 +571,9 @@ const deepObj = JSON.parse(JSON.stringify(originalObj)); // nestedkey balue will
 done with Codecademy lessons, array, loops, iterators `high-order function, forEach(), map(), filter(), reduce(), and findIndex()` and a bit on objects ! Get that spaced repetition and recall in!
 
 [Intro to JavaSript on codeademy](https://www.codecademy.com/learn/introduction-to-javascript)
+
+## Day 18
+
+done with Codecademy lesson objects! I decided to keep today light.
+
+[Intro to JavaSript on codeademy](https://www.codecademy.com/learn/introduction-to-javascript)
