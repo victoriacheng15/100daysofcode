@@ -1,6 +1,6 @@
 ## Links 
 
-[Day 5](#day-5) [Day 10](#day-10) [Day 15](#day-15) 
+[Day 5](#day-5) [Day 10](#day-10) [Day 15](#day-15) [Day 20](#day-20) 
 ## Day 1 
 
 I made a simple background color picker to show cofffee colors! It also changes images once you clicked! I used onclick event listener instead of addEventListener. Personally, I dont use onclick event listener function but, I am curious what are the differences between onclick and addEventListener. 
@@ -577,3 +577,13 @@ done with Codecademy lessons, array, loops, iterators `high-order function, forE
 done with Codecademy lesson objects! I decided to keep today light.
 
 [Intro to JavaSript on codeademy](https://www.codecademy.com/learn/introduction-to-javascript)
+
+## Day 19
+
+Pushed my "almost done" portfolio files onto github. I did couple problems on codewars.
+
+[portfolio](https://github.com/victoriacheng15/portfolio)
+
+## Day 20
+
+[Back to top](#links)
