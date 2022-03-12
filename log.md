@@ -580,7 +580,9 @@ done with Codecademy lesson objects! I decided to keep today light.
 
 ## Day 19
 
-Pushed my "almost done" portfolio files onto github. I did couple problems on codewars.
+- Portfolio site: added most informaiton (projects, contact form, and skill sections)
+- Did 2 or 3 small problems on codewars to start working on thinking process and as usual, practicing with JavaScript.
+
 
 [portfolio](https://github.com/victoriacheng15/portfolio)
 
