@@ -588,4 +588,57 @@ done with Codecademy lesson objects! I decided to keep today light.
 
 ## Day 20
 
+- Did 3 codewars problems by listing steps on what I need to do to get the solution.
+
+
+#### Rock paper scissors solution: 
+
+```js
+const rps = (p1, p2) => {
+  switch(p1+p2) {
+      case 'scissorspaper':
+      case 'rockscissors':
+      case 'paperrock':
+        return 'Player 1 won!'
+        break;
+      case 'scissorsrock':
+      case 'paperscissors':
+      case 'rockpaper':
+        return 'Player 2 won!'
+        break;
+      default:
+        return 'Draw!'
+        break;
+  }
+};
+```
+
+#### Grasshopper - Summation
+
+```js
+const summation = function (num) {
+  // set sum to 0
+  // loop from 0 to num
+  // add sum with i
+  let sum = 0
+  for(let i = 0; i <= num; i++) {
+     sum += i
+  }
+  return sum
+}
+```
+
+#### Fake - binary
+
+```js
+function fakeBin(x){
+  // split string
+  // map the array 
+  // check number is greater or less than 5
+  // join them
+  return x.split('').map(num => num < 5 ? '0' : '1').join('')
+}
+```
+
+
 [Back to top](#links)
