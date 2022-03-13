@@ -1,6 +1,6 @@
 ## Links 
 
-[Day 5](#day-5) [Day 10](#day-10) [Day 15](#day-15) [Day 20](#day-20) 
+[Day 5](#day-5) [Day 10](#day-10) [Day 15](#day-15) [Day 20](#day-20) [Day 25](#day-25) 
 ## Day 1 
 
 I made a simple background color picker to show cofffee colors! It also changes images once you clicked! I used onclick event listener instead of addEventListener. Personally, I dont use onclick event listener function but, I am curious what are the differences between onclick and addEventListener. 
@@ -592,6 +592,7 @@ done with Codecademy lesson objects! I decided to keep today light.
 
 
 #### Rock paper scissors solution: 
+Let's play! You have to return which player won! In case of a draw return Draw!.
 
 ```js
 const rps = (p1, p2) => {
@@ -614,6 +615,7 @@ const rps = (p1, p2) => {
 ```
 
 #### Grasshopper - Summation
+Write a program that finds the summation of every number from 1 to num. The number will always be a positive integer greater than 0.
 
 ```js
 const summation = function (num) {
@@ -629,6 +631,7 @@ const summation = function (num) {
 ```
 
 #### Fake - binary
+Given a string of digits, you should replace any digit below 5 with '0' and any digit 5 and above with '1'. Return the resulting string.
 
 ```js
 function fakeBin(x){
@@ -640,5 +643,61 @@ function fakeBin(x){
 }
 ```
 
+
+[Back to top](#links)
+
+## Day 21
+
+- did 3 codewars problems
+
+### Can we divide it?
+Your task is to create the functionisDivideBy (or is_divide_by) to check if an integer number is divisible by both integers a and b.
+
+```js
+function isDivideBy(number, a, b) {
+  // checke the answer is integer or not after divide
+  return Number.isInteger(number / a) && Number.isInteger(number / b) ? true : false
+}
+```
+
+### Will you make it?
+You were camping with your friends far away from home, but when it's time to go back, you realize that your fuel is running out and the nearest pump is 50 miles away! You know that, on average, your car runs on about 25 miles per gallon. There are 2 gallons left.
+
+```js
+const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
+  // TODO
+  // check total fuel need with mpg and fuelLeft
+  // check if totalfeul is equal or greater than then distanceToPump
+  // if equal or greater, return true
+  // if less, return false
+  return distanceToPump <= (mpg * fuelLeft) ? true : false
+};
+```
+
+### counting the sheep
+Consider an array/list of sheep where some sheep may be missing from their place. We need a function that counts the number of sheep present in the array (true means present).
+
+```js
+function countSheeps(arrayOfSheep) {
+  // set up empty array to store true
+  // check to see which one is true with filter
+  // push to sorted array
+  let sorted = []
+  arrayOfSheep.filter(check => {
+    if(check === true) {
+      sorted.push(check)
+    }
+  })
+  return sorted.length
+}
+```
+
+## Day 22
+
+## Day 23
+
+## Day 24
+
+## Day 25
 
 [Back to top](#links)
