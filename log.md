@@ -694,6 +694,39 @@ function countSheeps(arrayOfSheep) {
 
 ## Day 22
 
+- Worked on 2 codewars problems and learned couple things
+  - Using Array(x).keys() to fill the array based on the `x`
+  - Using new Set() to store unqiue values of any type
+- Added responsive design to my portfolio site
+
+codewars problems:
+
+- Count the divisors of a number
+
+Count the number of divisors of a positive integer n.
+```js
+function getDivisorsCnt(n) {
+  // create and fill the array based on n
+  // filter out decimal values with reminder
+  return [...Array(n + 1).keys()].filter((num) => n % num === 0).length;
+}
+```
+
+- Isograms
+
+An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.
+
+```js
+function isIsogram(str) {
+  // convert to lower case
+  // use Set() method that store unique values of any type
+  // check length
+  // - if same lenght, mean no repeat
+  // - if different length, mean repeat
+  return new Set(str.toLowerCase()).size === str.length;
+}
+```
+
 ## Day 23
 
 ## Day 24
