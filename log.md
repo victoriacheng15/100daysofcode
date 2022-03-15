@@ -729,6 +729,57 @@ function isIsogram(str) {
 
 ## Day 23
 
+- Worked on 2 codewars JS problems
+- Recap: I should look into `recursion` next
+
+### Sum of Numbers
+
+Given two integers a and b, which can be positive or negative, find the sum of all the integers between and including them and return it. If the two numbers are equal return a or b.
+
+```js
+function getSum(a,b) {
+  // 1. check if a === b, return a
+  // 2. check if a < b, loop and add through lowest to highest numbers
+  // 3. check if b < a, loop and add through lowest to highest numbers
+  let total = 0;  
+  if (a === b) { return a };
+  
+  if (a < b) {
+    for (let i = a; i <= b; i++) {
+      total += i;
+    }
+    return total;
+  }
+  
+  if (b < a) {
+    for (let i = b; i <= a; i++) {
+      total += i;
+    }
+    return total;
+  }
+}
+```
+
+### Remove the minimum
+
+Given an array of integers, remove the smallest value. Do not mutate the original array/list. If there are multiple elements with the same value, remove the one with a lower index. If you get an empty array/list, return an empty array/list.
+
+Don't change the order of the elements that are left.
+
+```js
+function removeSmallest(numbers) {
+  // leave the original array alone
+  // use Math.min()
+  // use apply() for the num array
+  // find index of the min and then remove with splice
+  const min = Math.min.apply(null,numbers);
+  const newArr = numbers.slice(0);
+  const minIndex = newArr.indexOf(min)
+  newArr.splice(minIndex, 1);
+  return newArr;
+}
+```
+
 ## Day 24
 
 ## Day 25
