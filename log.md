@@ -782,6 +782,46 @@ function removeSmallest(numbers) {
 
 ## Day 24
 
+- redid 2 problems on codewars with different solutions
+
+### Recursion
+
+Recursion is a process of calling itself. A function that calls itself is called a recursive function.
+In general, the recursion function looks like the code block below. Make sure have `if else` statemenet, otherwise, it can run forever.
+
+resources:
+- [Programiz recursion](https://www.programiz.com/javascript/recursion)
+- [JavaScript Info recursion](https://javascript.info/recursion)
+
+```js
+function recurse() {
+    if(condition) {
+        recurse();
+    }
+    else {
+        // stop calling recurse()
+    }
+}
+
+recurse();
+```
+
+Let's see an example with countdown
+
+```js
+const countdown = (num) => {
+  // logging the n
+  console.log(num);
+  // decrease num value by 1
+  const nextNumber = num - 1;
+  // prevent infinite loop, it stops when reach 0
+  if (nextNumber > 0) {
+    countdown(nextNumber);
+  }
+};
+countdown(10);
+```
+
 ## Day 25
 
 [Back to top](#links)
