@@ -824,4 +824,9 @@ countdown(10);
 
 ## Day 25
 
+- Read The JS way chapter 6 and 7
+- Redid 2 problems on codewars with different solutions
+
+[The JS way](https://github.com/thejsway/thejsway)
+
 [Back to top](#links)
