@@ -830,3 +830,26 @@ countdown(10);
 [The JS way](https://github.com/thejsway/thejsway)
 
 [Back to top](#links)
+
+## Day 26
+
+- Did 2 problems on codewars
+  - 8kyu: sum-of-positive.js
+  - 7kyu: sum-of-numbers.js (redid with different solution)
+- Read chapter 4 on Eloquent JavaScript
+
+I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/codewars-solutions)
+
+[Eloquent JavaScript
+](https://eloquentjavascript.net/04_data.html)
+
+## Day 27
+
+## Day 28
+
+## Day 29
+
+## Day 30
+
+
+[Back to top](#links)
