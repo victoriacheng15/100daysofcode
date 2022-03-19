@@ -840,10 +840,14 @@ countdown(10);
 
 I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/codewars-solutions)
 
-[Eloquent JavaScript
-](https://eloquentjavascript.net/04_data.html)
+[Eloquent JavaScript](https://eloquentjavascript.net/04_data.html)
 
 ## Day 27
+
+- Did 2 7kyu problems on codewars
+  - printer-error.js
+  - strings-ends-with.js
+- Worked on portfolio's project card
 
 ## Day 28
 
