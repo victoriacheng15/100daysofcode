@@ -863,6 +863,15 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 29
 
+- Did 2 7kyu problems on codewars
+  - reverse-letter.js
+  - anagram-detection.js
+- Redid 1 old problem codewars with different solution
+- Learned about apply() and spread operator
+
+[apply()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
+[spread operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+
 ## Day 30
 
 
