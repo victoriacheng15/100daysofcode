@@ -874,5 +874,8 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 30
 
+- codewars: did 2 7kyu problems
+- portfolio: got layout done. woot!
+- JavaScript: digged deeper on higher-order functions
 
 [Back to top](#links)
