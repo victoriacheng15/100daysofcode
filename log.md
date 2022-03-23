@@ -879,3 +879,20 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 - JavaScript: digged deeper on higher-order functions
 
 [Back to top](#links)
+
+## Day 31
+
+- codewars: did 1 7kyu problem
+- portfolio: added content and information
+- css: read about how to draw image with css gradient 
+
+## Day 32
+
+## Day 33
+
+## Day 34
+
+## Day 35
+
+
+[Back to top](#links)
