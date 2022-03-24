@@ -888,6 +888,14 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 32
 
+- codewars: did 5 problems
+  - regex-validate-pin.js
+  - reverse-words.js
+  - even-or-odd.js
+  - multiplying-two-num.js
+  - parse-nice-int-from-char-problem.js
+- portfolio: fixed and tweaked layouts for responsive design
+
 ## Day 33
 
 ## Day 34
