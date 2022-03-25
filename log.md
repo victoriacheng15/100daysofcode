@@ -898,6 +898,11 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 33
 
+- codewars: did 2 problems 
+  - 7kyu: vowels-count.js
+  - 6kyu: replace-with-alphabet-position.js 
+- portfolio: got it deployed on netlify
+
 ## Day 34
 
 ## Day 35
