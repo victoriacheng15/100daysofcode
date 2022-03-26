@@ -905,7 +905,7 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 34
 
-- codewars: 1 kyu problem
+- codewars: one 7kyu problem
 - Anki: added array method cards and reviewed cards 
 
 ## Day 35
