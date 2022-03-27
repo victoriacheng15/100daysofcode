@@ -910,5 +910,11 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 35
 
+- codewars: did 2 7kyu problems
+- Anki: added/updated cards and reorganized decks
+- OOP: read the Four Pillars of Object Oriented Programming article on medium
+
+[Four Pillars of Object Oriented Programming (OOP)](https://medium.com/@hamzzza.ahmed95/four-pillars-of-object-oriented-programming-oop-e8d7822aa219)
+
 
 [Back to top](#links)
