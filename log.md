@@ -1,6 +1,6 @@
 ## Links 
 
-[Day 5](#day-5) [Day 10](#day-10) [Day 15](#day-15) [Day 20](#day-20) [Day 25](#day-25) [Day 30](#day-30) 
+[Day 5](#day-5) [Day 10](#day-10) [Day 15](#day-15) [Day 20](#day-20) [Day 25](#day-25) [Day 30](#day-30) [Day 35](#day-35) [Day 40](#day-40) 
 ## Day 1 
 
 I made a simple background color picker to show cofffee colors! It also changes images once you clicked! I used onclick event listener instead of addEventListener. Personally, I dont use onclick event listener function but, I am curious what are the differences between onclick and addEventListener. 
@@ -915,6 +915,30 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 - OOP: read the Four Pillars of Object Oriented Programming article on medium
 
 [Four Pillars of Object Oriented Programming (OOP)](https://medium.com/@hamzzza.ahmed95/four-pillars-of-object-oriented-programming-oop-e8d7822aa219)
+
+
+[Back to top](#links)
+
+## Day 36
+
+- codewars: did 2 7kyu problems (JavaScript)
+- OOP: watched 30 minutes of the video by Programming with Mosh
+
+[Object-oriented Programming in JavaScript: Made Super Simple | Mosh](https://www.youtube.com/watch?v=PFmuCDHHpwk)
+
+## Day 37
+
+
+
+## Day 38
+
+
+
+## Day 39
+
+
+
+## Day 40
 
 
 [Back to top](#links)
