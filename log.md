@@ -928,6 +928,10 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 37
 
+- codewars: did 2 problems (JavaScript)
+- OOP: watched last 30 minutes of the video by Programming with Mosh
+
+[Object-oriented Programming in JavaScript: Made Super Simple | Mosh](https://www.youtube.com/watch?v=PFmuCDHHpwk)
 
 
 ## Day 38
