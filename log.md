@@ -936,7 +936,11 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 38
 
+- codewars: solved 3 problems with JavaScript
+- OOP: read more about the 4 pillars of OOP, abstraction, encapsulation, inheritance, and polymorphism
+- CSS: created 2D mint candy with CSS gradients
 
+![image](https://user-images.githubusercontent.com/35031228/160937102-58d82d1f-3801-4e88-8a19-0ba3fb105201.png)
 
 ## Day 39
 
