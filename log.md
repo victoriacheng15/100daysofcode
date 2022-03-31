@@ -944,6 +944,9 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 39
 
+- ✅ codewars: solved 4 problems with javascript
+- ✅ portfolio: fixed and tweaked layout and projects section
+- ✅ anki: reviewed cards
 
 
 ## Day 40
