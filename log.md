@@ -951,5 +951,32 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 40
 
+- ✅ codewars: solved 4 problems with javascript
+- ✅ portfolio: added favicon
+- ✅ anki: reviewed cards
+
+[Back to top](#links)
+
+## Day 41
+
+
+
+## Day 42
+
+
+
+
+## Day 43
+
+
+
+## Day 44
+
+
+
+
+## Day 45
+
+
 
 [Back to top](#links)
