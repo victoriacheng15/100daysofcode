@@ -944,14 +944,14 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 39
 
-- ✅ codewars: solved 4 problems with javascript
+- ✅ codewars: solved 4 problems with JavaScript
 - ✅ portfolio: fixed and tweaked layout and projects section
 - ✅ anki: reviewed cards
 
 
 ## Day 40
 
-- ✅ codewars: solved 4 problems with javascript
+- ✅ codewars: solved 4 problems with JavaScript
 - ✅ portfolio: added favicon
 - ✅ anki: reviewed cards
 
@@ -959,7 +959,11 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 41
 
+- ✅ codewars: solved 5 problems with JavaScript
+- ✅ Jest: read a bit the getting started section
+- ✅ anki: reviewed cards
 
+[Jest docs](https://jestjs.io/docs/getting-started)
 
 ## Day 42
 
