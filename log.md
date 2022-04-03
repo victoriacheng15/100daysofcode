@@ -967,7 +967,12 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 42
 
+- ✅ codewars: solved 4 problems with JavaScript
+- ✅ Jest: read using matchers section
+- ✅ Portfolio: updated to latest and added favicon
+- ✅ anki: reviewed cards
 
+[Jest docs](https://jestjs.io/docs/getting-started)
 
 
 ## Day 43
