@@ -972,12 +972,17 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 - ✅ Portfolio: updated to latest and added favicon
 - ✅ anki: reviewed cards
 
-[Jest docs](https://jestjs.io/docs/getting-started)
+[Jest docs - using matchers](https://jestjs.io/docs/using-matchers)
 
 
 ## Day 43
 
+- ✅ codewars: solved 5 problems with JavaScript
+- ✅ Jest: read a bit about Expect API docs
+- ✅ 100Devs: watched intro to git and github video
+- ✅ anki: reviewed cards
 
+[Jest docs - expect API](https://jestjs.io/docs/expect)
 
 ## Day 44
 
