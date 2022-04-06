@@ -986,11 +986,18 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 44
 
+- ✅ codewars: solved 4 problems with JavaScript
+- ✅ JS info: read about Map and Set section and all sections about code quality
+- ✅ anki: reviewed cards
 
-
+[JS Info - Map and Set](https://javascript.info/map-set)
+[JS Info - code quality](https://javascript.info/code-quality)
 
 ## Day 45
 
+- ✅ codewars: solved 4 problems with JavaScript
+- ✅ JavaScript: read about functional programming
+- ✅ anki: reviewed cards
 
 
 [Back to top](#links)
