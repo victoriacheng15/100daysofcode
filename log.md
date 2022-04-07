@@ -1,6 +1,7 @@
 ## Links 
 
-[Day 5](#day-5) [Day 10](#day-10) [Day 15](#day-15) [Day 20](#day-20) [Day 25](#day-25) [Day 30](#day-30) [Day 35](#day-35) [Day 40](#day-40) 
+[Day 5](#day-5) [Day 10](#day-10) [Day 15](#day-15) [Day 20](#day-20) [Day 25](#day-25) [Day 30](#day-30) [Day 35](#day-35) [Day 40](#day-40) [Day 45](#day-45) 
+
 ## Day 1 
 
 I made a simple background color picker to show cofffee colors! It also changes images once you clicked! I used onclick event listener instead of addEventListener. Personally, I dont use onclick event listener function but, I am curious what are the differences between onclick and addEventListener. 
@@ -998,6 +999,37 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 - ✅ codewars: solved 4 problems with JavaScript
 - ✅ JavaScript: read about functional programming
 - ✅ anki: reviewed cards
+
+
+[Back to top](#links)
+
+## Day 46
+
+- ✅ codewars: solved 4 problems with JavaScript
+- ✅ JavaScript: read more on functional programming
+- ✅ API project: got the word API and folder set up with Tailwind CSS
+- ✅ anki: reviewed cards
+
+[An introduction to functional programming in JavaScript](https://opensource.com/article/17/6/functional-javascript)
+
+[Back to top](#links)
+
+## Day 47
+
+
+
+## Day 48
+
+
+
+
+## Day 49
+
+
+
+## Day 50
+
+
 
 
 [Back to top](#links)
