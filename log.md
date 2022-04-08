@@ -1012,19 +1012,16 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 [An introduction to functional programming in JavaScript](https://opensource.com/article/17/6/functional-javascript)
 
-[Back to top](#links)
-
 ## Day 47
 
-
+- ✅ codewars: solved 2 problems with JavaScript
+- ✅ API project: got frontend and fetch request done
+- ✅ anki: reviewed cards
 
 ## Day 48
 
 
-
-
 ## Day 49
-
 
 
 ## Day 50
