@@ -1020,9 +1020,16 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 48
 
+- ✅ codewars: solved 3 problems with JavaScript
+- ✅ 100devs: watched class-26 video
+- ✅ API project: pull word and display on the page. game logic will be added after
+- ✅ anki: reviewed cards
 
 ## Day 49
 
+- ✅ codewars: solved 3 problems with JavaScript
+- ✅ CSS battle: did 3 challanges
+- ✅ anki: reviewed cards
 
 ## Day 50
 
