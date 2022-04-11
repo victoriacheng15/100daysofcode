@@ -1033,7 +1033,12 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 50
 
+- ✅ codewars: solved 4 problems with JavaScript
+- ✅ CSS battle: did the overlap and eye of the tiger challenge
+- ✅ JavaScript: read more about functional programming 
+- ✅ anki: reviewed cards
 
-
+ [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+ [Introduction to Functional Programming: JavaScript Paradigms](https://www.toptal.com/javascript/functional-programming-javascript)
 
 [Back to top](#links)
