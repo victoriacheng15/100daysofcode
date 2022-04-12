@@ -1046,6 +1046,11 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 51
 
+- ✅ codewars: solved 2 problems with JavaScript
+- ✅ CSS battle: did the fidget spinner challenge
+- ✅ anki: reviewed cards
+
+[axe-con](https://www.deque.com/axe-con/)
 
 ## Day 52
 
