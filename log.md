@@ -1053,6 +1053,15 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 [axe-con](https://www.deque.com/axe-con/)
 
 ## Day 52
+- ☕ codewars: solved 2 problems with JavaScript
+- ☕ CSS battle: did the cube challenge
+- ☕ localStorage: read localStorage and sessionStorage
+- ☕ anki: added new cards about localStorage and reviewed cards
+
+
+[JavaScript Info](https://javascript.info/localstorage)
+[JMDN - localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+[JMDN - sessionStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage)
 
 
 ## Day 53
