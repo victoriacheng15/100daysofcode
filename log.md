@@ -1058,14 +1058,20 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 - ☕ localStorage: read localStorage and sessionStorage
 - ☕ anki: added new cards about localStorage and reviewed cards
 
-
 [JavaScript Info](https://javascript.info/localstorage)
-[JMDN - localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
-[JMDN - sessionStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage)
+[MDN - localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+[MDN - sessionStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage)
 
 
 ## Day 53
 
+- ☕ codewars: solved 3 problems with JavaScript
+- ☕ CSS battle: did the SitePoint logo challenge
+- ☕ JavaScript: read about async await and promise
+- ☕ anki: reviewed cards
+
+[MDN- async](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+[MDN- promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 ## Day 54
 
