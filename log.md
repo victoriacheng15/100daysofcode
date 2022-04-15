@@ -1075,6 +1075,11 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 54
 
+- ☕ codewars: solved 3 problems with JavaScript
+- ☕ CSS battle: did the cloud challenge
+- ☕ OOP: reviewed/revisited this topic
+- ☕ Resume: fixed/updated/improved
+- ☕ anki: reviewed cards
 
 ## Day 55
 
