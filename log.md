@@ -1,6 +1,7 @@
 ## Links 
 
-[Day 5](#day-5) [Day 10](#day-10) [Day 15](#day-15) [Day 20](#day-20) [Day 25](#day-25) [Day 30](#day-30) [Day 35](#day-35) [Day 40](#day-40) [Day 45](#day-45) [Day 50](#day-50) [Day55](#day-55) 
+[Day 5](#day-5) [Day 10](#day-10) [Day 15](#day-15) [Day 20](#day-20) [Day 25](#day-25) [Day 30](#day-30) [Day 35](#day-35) [Day 40](#day-40) [Day 45](#day-45) [Day 50](#day-50) [Day 55](#day-55) [Day 60](#day-60) 
+
 
 ## Day 1 
 
@@ -1058,8 +1059,10 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 - ☕ localStorage: read localStorage and sessionStorage
 - ☕ anki: added new cards about localStorage and reviewed cards
 
-[JavaScript Info](https://javascript.info/localstorage)
+[JavaScript Info - localStorage](https://javascript.info/localstorage)
+
 [MDN - localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+
 [MDN - sessionStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage)
 
 
@@ -1071,6 +1074,7 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 - ☕ anki: reviewed cards
 
 [MDN- async](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+
 [MDN- promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 ## Day 54
@@ -1082,6 +1086,33 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 - ☕ anki: reviewed cards
 
 ## Day 55
+
+- ☕ codewars: solved 2 problems with JavaScript
+- ☕ CSS battle: did the boxception, switch, and blossom challenge
+- ☕ JavaScript: read about modules
+- ☕ anki: reviewed cards
+
+[JavaScript Info - module](https://javascript.info/modules-intro)
+
+[MDN - module](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+
+
+[Back to top](#links)
+
+## Day 56
+
+
+## Day 57
+
+
+## Day 58
+
+
+## Day 59
+
+
+## Day 60
+
 
 
 [Back to top](#links)
