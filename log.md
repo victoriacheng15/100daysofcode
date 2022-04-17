@@ -1101,6 +1101,14 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 56
 
+- ☕ codewars: solved 2 problems with JavaScript
+- ☕ CSS battle: did the smiley challenge
+- ☕ JavaScript: read about error handling
+- ☕ anki: reviewed cards
+
+[JavaScript Info - error handling](https://javascript.info/try-catch)
+
+[MDN - error handling](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
 
 ## Day 57
 
