@@ -1112,6 +1112,12 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 57
 
+- ☕ codewars: solved 4 problems with JavaScript
+- ☕ CSS battle: did the lock-up and cups & balls challenge
+- ☕ Eloquent JS: read higher-order function (chapter 5)
+- ☕ anki: reviewed cards
+
+[Eloquent JS - higher-order function](https://eloquentjavascript.net/05_higher_order.html)
 
 ## Day 58
 
