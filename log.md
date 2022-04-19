@@ -1121,6 +1121,15 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 58
 
+- ☕ codewars: solved 4 problems with JavaScript
+- ☕ CSS battle: did the suffocate and horizon challenges
+- ☕ JavaScript Info: read about 5.1 to 5.4 of data types lesson
+- ☕ Eloquent JS: read half of the chapter 6
+- ☕ anki: reviewed cards
+
+[JavaScript Info - data types](https://javascript.info/data-types)
+
+[Eloquent JS - The Secret Life of Objects](https://eloquentjavascript.net/06_object.html)
 
 ## Day 59
 
