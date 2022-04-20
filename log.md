@@ -1133,6 +1133,12 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 59
 
+- ☕ codewars: solved 5 problems with JavaScript
+- ☕ CSS battle: did the equals and band=aid challenges
+- ☕ JavaScript Info: read about 5.5 to 5.7 of data types lesson
+- ☕ anki: reviewed cards
+
+[JavaScript Info - data types](https://javascript.info/data-types)
 
 ## Day 60
 
