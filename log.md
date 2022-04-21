@@ -1142,6 +1142,28 @@ I push codewars solution [codewrs-solutions](https://github.com/victoriacheng15/
 
 ## Day 60
 
+- ☕ codewars: solved 5 problems with JavaScript
+- ☕ CSS battle: did the birdie and christmas tree challenges
+- ☕ API project(hangman game): improved layout and started JS part on detecting keys on press
+- ☕ anki: reviewed cards
+
+The difference between keydown, keypress, and keyup: [keydown vs keypress vs keyup](https://thisthat.dev/keydown-vs-keypress-vs-keyup/)
+
+[Back to top](#links)
+
+## Day 61
+
+
+## Day 62
+
+
+## Day 63
+
+
+## Day 64
+
+
+## Day 65
 
 
 [Back to top](#links)
