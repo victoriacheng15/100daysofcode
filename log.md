@@ -1153,6 +1153,11 @@ The difference between keydown, keypress, and keyup: [keydown vs keypress vs key
 
 ## Day 61
 
+- ☕ codewars: solved 5 problems with JavaScript
+- ☕ CSS battle: did the ice cream and interleaved challenges
+- ☕ freecodecamp: almost finish the JavaScript Algorithms and Data Structures
+- ☕ anki: reviewed cards
+
 
 ## Day 62
 
