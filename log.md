@@ -1161,6 +1161,17 @@ The difference between keydown, keypress, and keyup: [keydown vs keypress vs key
 
 ## Day 62
 
+- ☕ codewars: solved 4 problems with JavaScript
+- ☕ CSS battle: did the tunnel and not simpley square challenges
+- ☕ freecodecamp: got the JavaScript Algorithms and Data Structures certificate
+- ☕ Test Automation University: completed Setting a Foundation for Sucessful Test Automation (Web UI JS path)
+- ☕ anki: reviewed cards
+
+[Test Automation University](https://testautomationu.applitools.com/)
+
+[TAU CoC for Setting a Foundation for Sucessful Test Automation](https://testautomationu.applitools.com/certificate/?id=243a0668)
+
+[FFC JavaScript Algorithms and Data Structures certificate](https://www.freecodecamp.org/certification/victoriacheng15/javascript-algorithms-and-data-structures)
 
 ## Day 63
 
