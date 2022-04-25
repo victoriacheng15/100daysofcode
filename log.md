@@ -1182,6 +1182,10 @@ The difference between keydown, keypress, and keyup: [keydown vs keypress vs key
 
 ## Day 64
 
+- ☕ codewars: solved 4 problems with JavaScript
+- ☕ CSS battle: did two challenges
+- ☕ axe-con: started on 2nd video (Createing Accessible React Native Apps) of the development track 2022
+- ☕ anki: reviewed cards
 
 ## Day 65
 
