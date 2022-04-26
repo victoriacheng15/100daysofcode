@@ -1191,7 +1191,7 @@ The difference between keydown, keypress, and keyup: [keydown vs keypress vs key
 
 - ☕ codewars: solved 5 problems with JavaScript
 - ☕ CSS battle: did one challenge
-- ☕ Data, Strcuture, and Algorithm: read about big O notation 
+- ☕ Data Structures and Algorithms: read about big O notation 
 - ☕ axe-con: started on 3rd and 4th video (Venturing into unmapped ARIAs and Get it right the 1st time) of the development track 2022
 - ☕ anki: reviewed cards
 
