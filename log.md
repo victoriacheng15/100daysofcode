@@ -1,6 +1,6 @@
 ## Links 
 
-[Day 5](#day-5) [Day 10](#day-10) [Day 15](#day-15) [Day 20](#day-20) [Day 25](#day-25) [Day 30](#day-30) [Day 35](#day-35) [Day 40](#day-40) [Day 45](#day-45) [Day 50](#day-50) [Day 55](#day-55) [Day 60](#day-60) 
+[Day 5](#day-5) [Day 10](#day-10) [Day 15](#day-15) [Day 20](#day-20) [Day 25](#day-25) [Day 30](#day-30) [Day 35](#day-35) [Day 40](#day-40) [Day 45](#day-45) [Day 50](#day-50) [Day 55](#day-55) [Day 60](#day-60) [Day 65](#day-65) [Day 70](#day-70) 
 
 
 ## Day 1 
@@ -1188,6 +1188,36 @@ The difference between keydown, keypress, and keyup: [keydown vs keypress vs key
 - ☕ anki: reviewed cards
 
 ## Day 65
+
+- ☕ codewars: solved 5 problems with JavaScript
+- ☕ CSS battle: did one challenge
+- ☕ Data, Strcuture, and Algorithm: read about big O notation 
+- ☕ axe-con: started on 3rd video (Venturing into unmapped ARIAs and Get it right the 1st time) of the development track 2022
+- ☕ anki: reviewed cards
+
+[Big O notation from interview cake](https://www.interviewcake.com/article/javascript/big-o-notation-time-and-space-complexity?course=fc1&section=algorithmic-thinking)
+
+[Introduction to Big O Notation and Time Complexity By CS Dojo](https://www.youtube.com/watch?v=D6xkbGLQesk&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H&index=8)
+
+
+[Back to top](#links)
+
+## Day 66
+
+
+
+## Day 67
+
+
+
+## Day 68
+
+
+## Day 69
+
+
+
+## Day 70
 
 
 [Back to top](#links)
