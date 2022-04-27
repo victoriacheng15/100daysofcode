@@ -1204,7 +1204,14 @@ The difference between keydown, keypress, and keyup: [keydown vs keypress vs key
 
 ## Day 66
 
+- ☕ codewars: solved 5 problems with JavaScript
+- ☕ CSS battle: did one challenge
+- ☕ The JS way: read chapter 9 - Understand object-oriented programming
+- ☕ anki: reviewed cards
 
+I spent most of time to write about me blog today and look to publish soon!
+
+[The JS way - chapter 9](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md)
 
 ## Day 67
 
