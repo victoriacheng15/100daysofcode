@@ -1215,7 +1215,10 @@ I spent most of time to write about me blog today and look to publish soon!
 
 ## Day 67
 
-
+- ☕ codewars: solved 5 problems with JS
+- ☕ axe-con: done with the last 2 videos of the development track 2022
+- ☕ TAU: done with chaper 1 and 2 of Automating in the browser using JS
+- ☕ anki: reviewed cards
 
 ## Day 68
 
