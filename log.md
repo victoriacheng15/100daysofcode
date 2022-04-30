@@ -1229,7 +1229,11 @@ I spent most of time to write about me blog today and look to publish soon!
 
 ## Day 69
 
-
+- ☕ codewars: solved 5 problems with JS
+- ☕ hacker rank: solved 1 problem with JS
+- ☕ CSS battle: did one challenge
+- ☕ TAU: done with chapter 4 of Automating in the browser using JS
+- ☕ anki: reviewed cards
 
 ## Day 70
 
