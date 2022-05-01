@@ -1237,5 +1237,26 @@ I spent most of time to write about me blog today and look to publish soon!
 
 ## Day 70
 
+- ☕ codewars: solved 6 problems with JS
+- ☕ hacker rank: solved 1 problem with JS
+- ☕ TAU: done with chapter 5 of Automating in the browser using JS
+- ☕ anki: reviewed cards
+
+[Back to top](#links)
+
+## Day 71
+
+
+
+## Day 72
+
+
+## Day 73
+
+## Day 74
+
+
+## Day 75
+
 
 [Back to top](#links)
