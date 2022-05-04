@@ -1261,6 +1261,16 @@ I spent most of time to write about me blog today and look to publish soon!
 
 ## Day 73
 
+- ☕ codewars: solved 3 problems with JS
+- ☕ hacker rank: solved 1 problem with JS
+- ☕ Test Automation University: done with chapter 8 of Automating in the browser using JS
+- ☕ DSA: reviewed Big-O Notation
+- ☕ anki: reviewed cards
+
+[Educative - What is Big-O Notation?](https://www.educative.io/edpresso/what-is-big-o-notation)
+
+[Big-O Notation Explained with Examples](https://developerinsider.co/big-o-notation-explained-with-examples/)
+
 ## Day 74
 
 
