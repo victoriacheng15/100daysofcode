@@ -1283,3 +1283,44 @@ I spent most of time to write about me blog today and look to publish soon!
 
 
 [Back to top](#links)
+
+## Day 76
+
+- ☕ codewars: solved 4 problems with JS
+- ☕ hacker rank: solved 2 problems with JS
+- ☕ git: learned about git rebase and how to update branches with merge and rebase methods
+- ☕ Test Automation University: done with chapter 10 of Automating in the browser using JS
+- ☕ anki: reviewed cards
+
+There are 2 methods to update your branch(es) and I found it is really useful since I would like to keep the branches for specific purpose. I am also experimenting different ways to utilize git and github to organizing repos.
+
+- Merge method: this will keep branch history accurate
+
+git checkout branch-1
+git merge origin/main
+git push origin branch-1
+
+- Rebase method: the history will appear linear and will be conflict if already push
+
+git checkout branch-1
+git rebase main
+git push origin branch-1
+
+The main different between them is that merging will keep all history as it is while rebase will rewrite the history by creating brand new commits for each commit. As usual, there are pros and cons to use either method, please refer to the link below for more information. 
+
+
+[Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+
+## Day 77
+
+
+## Day 78
+
+
+## Day 79
+
+
+## Day 80
+
+
+[Back to top](#links)
