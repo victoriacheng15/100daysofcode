@@ -1313,6 +1313,10 @@ The main different between them is that merging will keep all history as it is w
 
 ## Day 77
 
+- ☕ codewars: solved 3 problems with JS
+- ☕ hacker rank: solved 1 problems with JS
+- ☕ Test Automation University: done with chapter 11 of Automating in the browser using JS
+- ☕ anki: reviewed cards
 
 ## Day 78
 
