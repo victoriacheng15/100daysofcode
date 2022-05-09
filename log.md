@@ -1,7 +1,15 @@
 ## Links 
 
-[Day 5](#day-5) [Day 10](#day-10) [Day 15](#day-15) [Day 20](#day-20) [Day 25](#day-25) [Day 30](#day-30) [Day 35](#day-35) [Day 40](#day-40) [Day 45](#day-45) [Day 50](#day-50) [Day 55](#day-55) [Day 60](#day-60) [Day 65](#day-65) [Day 70](#day-70) [Day 75](#day-75) 
-
+- [Day 5](#day-5) [Day 10](#day-10) 
+- [Day 15](#day-15) [Day 20](#day-20) 
+- [Day 25](#day-25) [Day 30](#day-30)  
+- [Day 35](#day-35) [Day 40](#day-40) 
+- [Day 45](#day-45) [Day 50](#day-50) 
+- [Day 55](#day-55) [Day 60](#day-60) 
+- [Day 65](#day-65) [Day 70](#day-70) 
+- [Day 75](#day-75) [Day 80](#day-80) 
+- [Day 85](#day-85) [Day 90](#day-90) 
+- [Day 95](#day-95) [Day 100](#day-100) 
 
 ## Day 1 
 
@@ -1320,11 +1328,89 @@ The main different between them is that merging will keep all history as it is w
 
 ## Day 78
 
+- ☕ codewars: solved 4 problems with JS
+- ☕ hacker rank: solved 1 problems with JS
+- ☕ Test Automation University: done with chapter 12 and 13 of Automating in the browser using JS
+- ☕ anki: reviewed cards
 
 ## Day 79
 
+- ☕ codewars: solved 5 problems with JS
+- ☕ hacker rank: solved 1 problems with JS
+- ☕ Test Automation University: done with chapter 1 of Mocha JS Test Framework
+- ☕ Resume: brainstormed work experience section
+- ☕ anki: reviewed cards
 
 ## Day 80
+
+
+[Back to top](#links)
+
+
+## Day 81
+
+
+## Day 82
+
+
+## Day 83
+
+
+## Day 84
+
+
+## Day 85
+
+
+[Back to top](#links)
+
+## Day 86
+
+
+## Day 87
+
+
+## Day 88
+
+
+## Day 89
+
+
+## Day 90
+
+
+[Back to top](#links)
+
+## Day 91
+
+
+## Day 92
+
+
+## Day 93
+
+
+## Day 94
+
+
+## Day 95
+
+
+[Back to top](#links)
+
+## Day 96
+
+
+## Day 97
+
+
+## Day 98
+
+
+## Day 99
+
+
+## Day 100
 
 
 [Back to top](#links)
