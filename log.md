@@ -1343,6 +1343,15 @@ The main different between them is that merging will keep all history as it is w
 
 ## Day 80
 
+- ☕ codewars: solved 5 problems with JS
+- ☕ hacker rank: solved 1 problems with JS
+- ☕ Test Automation University: done with Mocha JS test Framework
+- ☕ OOP: reviewed OOP again
+- ☕ blog: published a blog and brainstormed blog topics
+- ☕ Resume: continued brainstorming work experience section
+- ☕ anki: reviewed cards and added new cards on Jest and Mocha
+
+[Object-Oriented Programming in JavaScript for Beginners](https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/)
 
 [Back to top](#links)
 
