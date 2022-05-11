@@ -1358,6 +1358,45 @@ The main different between them is that merging will keep all history as it is w
 
 ## Day 81
 
+- ☕ codewars: solved 5 problems with JS
+- ☕ hacker rank: solved 1 problems with JS
+- ☕ Data Structures and Algo: reviewd hashmap
+- ☕ Test Automation University: done with ch 1 and 2 of Intro to Chai Assertion
+- ☕ blog: re-organized the blog site
+- ☕ anki: reviewed cards and added cards about chai assertion
+
+One of these codewars problems asked me to keep tracking of langauge counts from the provided list. My first thought was to use hashmap, and I am not familiar with hashmap. I decided to read on hashmap and to see how it works and then tried to solve codewars problems with hashmap. In the end, I got how the hashmap works now! I think it is a good topic to write on for my blog. 🤔
+
+```js
+const list1 = [
+  { firstName: 'Noah', lastName: 'M.',age: 19, language: 'C' },
+  { firstName: 'Anna', lastName: 'R.', age: 52, language: 'JavaScript' },
+  { firstName: 'Ramon', lastName: 'R.', age: 29, language: 'Ruby' },
+  { firstName: 'George', lastName: 'B.', age: 81, language: 'C' },
+];
+
+// my solutions
+function countLanguages(list) {
+  const counter = {}
+  list.forEach(({language}) => {
+    if(!counter[language]) {
+      counter[language] = (counter[language] || 0) + 1
+    } else {
+      counter[language] += 1
+    }
+  })
+  return counter
+}
+
+countLanguages(list1) // { C: 2, JavaScript: 1, Ruby: 1 }
+```
+
+I dont think I need to write the `if else` statement. I will improve the solution for next time.
+
+Note: I use hashnode blog, in case if you are wondering.
+
+[How you can change the world by learning Data Structures and Algorithms](https://adrianmejia.com/how-you-can-change-the-world-learning-data-structures-algorithms-free-online-course-tutorial/)
+
 
 ## Day 82
 
