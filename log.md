@@ -1400,6 +1400,11 @@ Note: I use hashnode blog, in case if you are wondering.
 
 ## Day 82
 
+- ☕ codewars: solved 5 problems with JS
+- ☕ hacker rank: solved 1 problems with JS
+- ☕ Test Automation University: done with ch 3 and 4 of Intro to Chai Assertion
+- ☕ resume: updated work section
+- ☕ anki: reviewed cards and added cards about chai assertion
 
 ## Day 83
 
