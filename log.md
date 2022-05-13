@@ -1408,6 +1408,14 @@ Note: I use hashnode blog, in case if you are wondering.
 
 ## Day 83
 
+- ☕ codewars: solved 4 problems with JS
+- ☕ hacker rank: solved 1 problems with JS
+- ☕ Test Automation University: done Intro to Chai Assertion
+- ☕ anki: reviewed cards
+
+I spent most of time today to fill/fix/update my LinkedIn, angel{dot}co and resume. Since it is Friday, don't forget to take a short break and go celebrating on something.
+
+Happy Friday and have a great weekend. 
 
 ## Day 84
 
