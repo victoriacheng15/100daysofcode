@@ -1419,6 +1419,11 @@ Happy Friday and have a great weekend.
 
 ## Day 84
 
+- ☕ codewars: solved 5 problems with JS
+- ☕ hacker rank: solved 2 problems with JS
+- ☕ Test Automation University: done with ch 1 and 2 of intro to cypress
+- ☕ resume: proofread and edited work experience section
+- ☕ anki: reviewed cards
 
 ## Day 85
 
