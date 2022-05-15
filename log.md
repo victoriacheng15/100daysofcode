@@ -1429,7 +1429,7 @@ Happy Friday and have a great weekend.
 
 - ☕ codewars: solved 5 problems with JS
 - ☕ hacker rank: solved 1 problems with JS
-- ☕ Test Automation University: done with ch 1 and 2 of intro to cypress
+- ☕ Test Automation University: done with ch 3 of intro to cypress
 - ☕ Data Structures and Algo: read about greedy algorithms
 - ☕ github: re-organized repo and update files
 - ☕ anki: reviewed cards
