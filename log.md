@@ -1427,6 +1427,16 @@ Happy Friday and have a great weekend.
 
 ## Day 85
 
+- ☕ codewars: solved 5 problems with JS
+- ☕ hacker rank: solved 1 problems with JS
+- ☕ Test Automation University: done with ch 1 and 2 of intro to cypress
+- ☕ Data Structures and Algo: read about greedy algorithms
+- ☕ github: re-organized repo and update files
+- ☕ anki: reviewed cards
+
+[Interview Cake - Greedy Algorithms](https://www.interviewcake.com/concept/javascript/greedy?)
+
+[Programiz - Greedy Algorithms](https://www.programiz.com/dsa/greedy-algorithm#:~:text=A%20greedy%20algorithm%20is%20an,if%20the%20choice%20is%20wrong.)
 
 [Back to top](#links)
 
