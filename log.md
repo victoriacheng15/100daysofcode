@@ -1442,6 +1442,13 @@ Happy Friday and have a great weekend.
 
 ## Day 86
 
+- ☕ codewars: solved 5 problems with JS
+- ☕ hacker rank: solved 1 problems with JS
+- ☕ Test Automation University: done with ch 4 of intro to cypress
+- ☕ 100Deva: watched node.js crash course
+- ☕ anki: reviewed cards
+
+[Node.js crash course by Traversy](https://www.youtube.com/watch?v=fBNz5xF-Kx4&t=573s)
 
 ## Day 87
 
