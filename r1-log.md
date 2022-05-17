@@ -1452,6 +1452,14 @@ Happy Friday and have a great weekend.
 
 ## Day 87
 
+- ☕ codewars: solved 5 problems with JS
+- ☕ hacker rank: solved 1 problems with JS
+- ☕ Test Automation University: done with ch 5 of intro to cypress
+- ☕ hashnode blog: started a draft
+- ☕ anki: reviewed cards
+
+[10 Heroku alternatives to host your app in 2022](https://autoidle.com/blog/heroku-alternatives)
+
 
 ## Day 88
 
