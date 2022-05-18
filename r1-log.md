@@ -1463,6 +1463,10 @@ Happy Friday and have a great weekend.
 
 ## Day 88
 
+- ☕ codewars: solved 4 problems with JS
+- ☕ hacker rank: solved 1 problems with JS
+- ☕ Test Automation University: done with ch 6 and 7 of intro to cypress
+- ☕ anki: reviewed cards
 
 ## Day 89
 
