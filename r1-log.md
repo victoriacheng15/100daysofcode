@@ -1470,6 +1470,11 @@ Happy Friday and have a great weekend.
 
 ## Day 89
 
+- ☕ codewars: solved 4 problems with JS
+- ☕ hacker rank: solved 1 problems with JS
+- ☕ DSA: reviewed hashtable/hashmap
+- ☕ Test Automation University: done with intro to cypress
+- ☕ anki: reviewed cards
 
 ## Day 90
 
