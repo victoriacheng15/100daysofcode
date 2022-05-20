@@ -1478,6 +1478,10 @@ Happy Friday and have a great weekend.
 
 ## Day 90
 
+- ☕ codewars: solved 4 problems with JS
+- ☕ hacker rank: solved 1 problems with JS
+- ☕ 100Devs: watched class 35 (callback, promise, async, and node)
+- ☕ anki: reviewed cards
 
 [Back to top](#links)
 
