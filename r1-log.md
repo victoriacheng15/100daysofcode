@@ -1487,6 +1487,9 @@ Happy Friday and have a great weekend.
 
 ## Day 91
 
+- ☕ GitHub: set up project boards for 2 repos to learn how to use the board to organize your projects
+- ☕ Interview Prep: added answers for html section
+- ☕ anki: reviewed cards
 
 ## Day 92
 
