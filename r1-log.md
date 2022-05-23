@@ -1493,6 +1493,11 @@ Happy Friday and have a great weekend.
 
 ## Day 92
 
+- ☕ codewars: solved 3problems with JS
+- ☕ hacker rank: solved 1 problems with JS
+- ☕ DSA: read about stacks and queues
+- ☕ Interview Prep: added 3 CSS answers
+- ☕ anki: reviewed cards and added 5 cards
 
 ## Day 93
 
