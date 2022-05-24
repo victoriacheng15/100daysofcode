@@ -1501,6 +1501,10 @@ Happy Friday and have a great weekend.
 
 ## Day 93
 
+- ☕ codewars: solved 5 problems with JS
+- ☕ hacker rank: solved 1 problems with JS
+- ☕ Interview Prep: added 3 CSS answers
+- ☕ anki: reviewed cards and added 5 cards
 
 ## Day 94
 
