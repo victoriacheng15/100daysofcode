@@ -1508,6 +1508,10 @@ Happy Friday and have a great weekend.
 
 ## Day 94
 
+- ☕ codewars: solved 4 problems with JS
+- ☕ Interview Prep: added 3 CSS answers
+- ☕ 100Devs: watched class 36 video on nodejs, async/await, call stack, task queue, etc
+- ☕ anki: reviewed cards and added 5 cards
 
 ## Day 95
 
