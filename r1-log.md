@@ -1515,6 +1515,10 @@ Happy Friday and have a great weekend.
 
 ## Day 95
 
+- ☕ codewars: solved 4 problems with JS
+- ☕ hacker rank: solved 1 problems with JS
+- ☕ Interview Prep: added 7 CSS answers
+- ☕ anki: reviewed cards and added 6 cards
 
 [Back to top](#links)
 
