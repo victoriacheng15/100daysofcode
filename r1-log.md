@@ -1524,6 +1524,11 @@ Happy Friday and have a great weekend.
 
 ## Day 96
 
+- ☕ codewars: solved 2 problems with JS
+- ☕ hackerrank: solved 1 problems with JS
+- ☕ Elonquent JS: read chapter 6 - higher0order function
+- ☕ Interview Prep: added 6 CSS answers
+- ☕ anki: reviewed cards and added 6 cards
 
 ## Day 97
 
