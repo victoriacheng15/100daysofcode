@@ -1532,6 +1532,10 @@ Happy Friday and have a great weekend.
 
 ## Day 97
 
+- ☕ codewars: solved 2 problems with JS
+- ☕ hackerrank: solved 1 problems with JS
+- ☕ Interview Prep: added 6 CSS answers
+- ☕ anki: reviewed cards and added 6 cards
 
 ## Day 98
 
