@@ -1526,7 +1526,7 @@ Happy Friday and have a great weekend.
 
 - ☕ codewars: solved 2 problems with JS
 - ☕ hackerrank: solved 1 problems with JS
-- ☕ Elonquent JS: read chapter 6 - higher0order function
+- ☕ Elonquent JS: read chapter 5 - higher-order function
 - ☕ Interview Prep: added 6 CSS answers
 - ☕ anki: reviewed cards and added 6 cards
 
@@ -1539,9 +1539,20 @@ Happy Friday and have a great weekend.
 
 ## Day 98
 
+- ☕ codewars: solved 4 problems with JS
+- ☕ Elonquent JS: read chapter 6 - The Secret Life of Objects
+- ☕ anki: reviewed cards
+
 
 ## Day 99
 
+- ☕ hackerrank: solved 1 problems with JS
+- ☕ Node: built a simple crud starwars app by Zell
+- ☕ blog: wrote about Tailwind CSS - Beginner Edition
+- ☕ Interview Prep: added 2 JS answers
+- ☕ anki: reviewed cards and added 8 cards
+
+[Building a Simple CRUD app with Node, Express, and MongoDB](https://zellwk.com/blog/crud-express-mongodb/)
 
 ## Day 100
 
