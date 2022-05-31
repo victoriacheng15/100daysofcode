@@ -1556,5 +1556,9 @@ Happy Friday and have a great weekend.
 
 ## Day 100
 
+- ☕ hackerrank: solved 1 problems with JS
+- ☕ blog: started a draft 
+- ☕ Interview Prep: added 4 JS answers
+- ☕ anki: reviewed cards and added 8 cards
 
 [Back to top](#links)
