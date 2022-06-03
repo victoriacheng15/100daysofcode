@@ -1,3 +1,18 @@
+# Plan
+
+Lessons:
+- TypeScript
+- TDD with Jest, maybe mocha and chai
+- Data structures and algo
+- Node and Express
+  
+Resources: 
+- [TypeScript Docs](https://www.typescriptlang.org/docs/)
+- [Traversy Media TypeScript Crash Course](https://www.youtube.com/watch?v=BCg4U1FzODs&t=244s)
+- [Algorithms and data structures implemented in JavaScript](https://github.com/trekhleb/javascript-algorithms)
+- [6 JavaScript data structures you must know](https://www.educative.io/blog/javascript-data-structures)
+- [Unit testing in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr)
+
 ## Links 
 
 - [Day 5](#day-5) [Day 10](#day-10) 
