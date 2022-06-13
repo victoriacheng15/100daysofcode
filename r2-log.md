@@ -23,6 +23,47 @@ Resources:
 
 ## Day 1 
 
+- ☕ 1 problem each from codewars and leetcode
+- ☕ read Node.js and Express (Part 3) on Full Stack open
+- ☕ started a blog draft
+
+Reminder - make sure use .env file to store your password and api. Never push senstive information onto github!!
+
+REST Client
+
+There is an extension called REST Client. It allows you to send HTTP requests within vscode. You could write like this below and get the requests you need. It is pretty cool. Make sure type ### between requests
+
+GET https://example.com/comments/1 HTTP/1.1
+
+###
+
+GET https://example.com/topics/1 HTTP/1.1
+
+###
+
+POST https://example.com/comments HTTP/1.1
+
+content-type: application/json
+
+```json
+{
+    "name": "sample",
+    "time": "Wed, 21 Oct 2015 18:27:50 GMT"
+}
+```
+
+What is CORS?
+
+cross-origin resource sharing is a mechanism that allows restricted resources on web page to be request from anothe domain outside the domain from the first resource was served. By default, the JS code of an app that runs in a browser can only communicate with a server in the same origin. Frontend is in localhost:3000 while server is in localhost:3001, hence why we need to install cors.
+
+[the beast of many beasts](https://github.com/victoriacheng15/codewars-solutions/pull/47)
+
+[group anagrams](https://github.com/victoriacheng15/data-structures-and-algorithms/blob/main/leetcode/solutions/004-group-anagram.test.js)
+
+[Node.js and Express (Part 3)](https://fullstackopen.com/en/part3)
+
+[REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+
 ## Day 2
 
 ## Day 3
