@@ -26,6 +26,7 @@ Resources:
 - ☕ 1 problem each from codewars and leetcode
 - ☕ read Node.js and Express (Part 3) on Full Stack open
 - ☕ started a blog draft
+- ☕ reviewed anki
 
 Reminder - make sure use .env file to store your password and api. Never push senstive information onto github!!
 
@@ -35,11 +36,7 @@ There is an extension called REST Client. It allows you to send HTTP requests wi
 
 GET https://example.com/comments/1 HTTP/1.1
 
-###
-
 GET https://example.com/topics/1 HTTP/1.1
-
-###
 
 POST https://example.com/comments HTTP/1.1
 
@@ -65,6 +62,15 @@ cross-origin resource sharing is a mechanism that allows restricted resources on
 [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
 ## Day 2
+
+- ☕ 1 problem each from codewars and leetcode
+- ☕ read Intro to React (Part 1) on Full Stack open
+- ☕ started on bubble tea api project
+- ☕ reviewed anki
+
+[Longest Consective Sequence](https://github.com/victoriacheng15/data-structures-and-algorithms/blob/main/leetcode/solutions/005-longest-consecutive-sequence.test.js)
+
+[Intro to React](https://fullstackopen.com/en/part1)
 
 ## Day 3
 
