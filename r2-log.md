@@ -78,6 +78,7 @@ cross-origin resource sharing is a mechanism that allows restricted resources on
 - ☕ continued on bubble tea api project
     - connected to the mongodb
     - can add new teas
+- ☕ read chapter 7: project a robot
 - ☕ reviewed anki
 
 ## Day 4
