@@ -83,6 +83,20 @@ cross-origin resource sharing is a mechanism that allows restricted resources on
 
 ## Day 4
 
+- ☕ Solved 1 leetcode
+- ☕ continued on bubble tea api project
+    - added frontend
+    - looked into how to implment drag and drop
+- ☕ read about drag and drop in html5
+- ☕ reviewed anki
+
+![image](https://user-images.githubusercontent.com/35031228/174184789-7beb000b-d582-4d6c-9d4a-3cb4e8742598.png)
+
+
+[Drag and Drop in Vanilla JavaScript](https://web.dev/drag-and-drop/)
+
+[Using the HTML5 Drag and Drop API](https://stackabuse.com/drag-and-drop-in-vanilla-javascript/ )
+
 ## Day 5
 
 [Back to top](#links)
