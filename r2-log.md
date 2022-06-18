@@ -99,9 +99,21 @@ cross-origin resource sharing is a mechanism that allows restricted resources on
 
 ## Day 5
 
+- ☕ solved 1 leetcode
+- ☕ continued on bubble tea api project
+    - finally figured out how to select items inside column
+- ☕ published a blog on JavaScript - Mutable Array Methods
+- ☕ reviewed anki
+
 [Back to top](#links)
 
 ## Day 6
+
+- ☕ solved 1 codewars kata
+- ☕ continued on bubble tea api project
+    - figuring out how to implment drag and drop feature
+- ☕ read Eloquent JavaScript chapter 8: bugs and errors
+- ☕ reviewed anki
 
 ## Day 7
 
