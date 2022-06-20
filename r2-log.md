@@ -117,6 +117,38 @@ cross-origin resource sharing is a mechanism that allows restricted resources on
 
 ## Day 7
 
+- ☕ DSA: solved 4 codewars katas
+- ☕ bubble tea api: implemented drag and drop feature for the "order"
+- ☕ TypeScript:
+    - can check the type of the variable based on the assigned value, but can be difficult to check automatically 
+    - learned 2 syntax (interface and type) that declares types, but prefer interface
+    
+```ts
+interface User {
+  name: string;
+  id: number;
+}
+
+const user: User = {
+  name: 'Victoria',
+  id: 1
+}
+```
+
+```ts
+type User = {
+  name: string;
+};
+
+interface User {
+  name: string;
+}
+```
+
+![chrome_YNP0n2ie1S](https://user-images.githubusercontent.com/35031228/174682625-c270fab0-8e46-4f68-bc5a-7918c1f2a31c.gif)
+
+[TypeScript for JS Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+
 ## Day 8
 
 ## Day 9
