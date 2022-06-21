@@ -151,6 +151,15 @@ interface User {
 
 ## Day 8
 
+- ☕ DSA: solved 2 leetcode
+- ☕ bubble tea api: implemented the "lock" once the order box contained 2 input elements
+- ☕ TypeScript: TS handbook the basic
+
+[TS handbook - the basic](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
+
+![chrome_ZZjIfHxddc](https://user-images.githubusercontent.com/35031228/174902134-f99b827a-bfe0-48c3-b681-0244493a3639.gif)
+
+
 ## Day 9
 
 ## Day 10
