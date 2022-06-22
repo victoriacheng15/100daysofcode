@@ -162,6 +162,34 @@ interface User {
 
 ## Day 9
 
+- ☕ DSA: solved 2 leetcode
+- ☕ bubble tea api: the page will handle the order, if the order exists in the DB, update the count, and if not, insert the new order
+- ☕ TypeScript: TS handbook - everyday type chapter about how to implement type checks for arrays, functions, object, union, and types aliases.
+
+The difference between interface and type:
+you can have more than 1 interface and type declarations with the same name, however, only interface allows you to add a new field, while type can't do this.
+
+```ts
+// no problem
+interface Window {
+  title: string
+}
+
+interface Window {
+  ts: TypeScriptAPI
+}
+
+
+// cant do this and show Error: Duplicate identifier 'Window'.
+type Window = {
+  title: string
+}
+
+type Window = {
+  ts: TypeScriptAPI
+}
+```
+
 ## Day 10
 
 [Back to top](#links)
