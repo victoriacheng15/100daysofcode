@@ -192,6 +192,10 @@ type Window = {
 
 ## Day 10
 
+- ☕ bubble tea api: the page will handle the order, if the order exists in the DB, update the count, and if not, insert the new order
+
+![chrome_jpMLpvQ1Au](https://user-images.githubusercontent.com/35031228/175402696-ac72649a-a44c-4174-b35d-988455e4200a.gif)
+
 [Back to top](#links)
 
 ## Day 11
