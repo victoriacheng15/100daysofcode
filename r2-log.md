@@ -200,6 +200,14 @@ type Window = {
 
 ## Day 11
 
+- ☕ DSA: solved 1 codewears kata
+- ☕ bubble tea api: 
+  - fixed the issue that you can submit 2 tea types
+  - added history content and sources
+- ☕ TypeScript: went through TS - types, function, and conplex types lessons on Codecademy
+
+![chrome_bzA4hTJFy0](https://user-images.githubusercontent.com/35031228/175665790-a0c76bf8-1336-4743-ac4e-550adc5f289d.gif)
+
 ## Day 12
 
 ## Day 13
