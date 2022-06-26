@@ -204,11 +204,20 @@ type Window = {
 - ☕ bubble tea api: 
   - fixed the issue that you can submit 2 tea types
   - added history content and sources
-- ☕ TypeScript: went through TS - types, function, and conplex types lessons on Codecademy
+- ☕ TypeScript: went through TS - types, function, and complex types lessons on Codecademy
 
 ![chrome_bzA4hTJFy0](https://user-images.githubusercontent.com/35031228/175665790-a0c76bf8-1336-4743-ac4e-550adc5f289d.gif)
 
 ## Day 12
+
+- ☕ DSA: solved 1 codewears kata
+- ☕ bubble tea api: 
+  - overhualed colors/theme
+  - set up leaderboard
+- ☕ TypeScript: went through union types lesson on Codecademy
+
+![chrome_Nr4ViwDUgc](https://user-images.githubusercontent.com/35031228/175832501-efa446b9-5e4c-458c-8f13-7675648645e6.gif)
+
 
 ## Day 13
 
