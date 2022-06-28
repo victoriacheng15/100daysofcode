@@ -90,8 +90,12 @@ cross-origin resource sharing is a mechanism that allows restricted resources on
 - ☕ read about drag and drop in html5
 - ☕ reviewed anki
 
+<details>
+  <summary>See gif</summary>
+
 ![image](https://user-images.githubusercontent.com/35031228/174184789-7beb000b-d582-4d6c-9d4a-3cb4e8742598.png)
 
+</details>
 
 [Drag and Drop in Vanilla JavaScript](https://web.dev/drag-and-drop/)
 
@@ -145,7 +149,12 @@ interface User {
 }
 ```
 
+<details>
+  <summary>See gif</summary>
+
 ![chrome_YNP0n2ie1S](https://user-images.githubusercontent.com/35031228/174682625-c270fab0-8e46-4f68-bc5a-7918c1f2a31c.gif)
+
+</details>
 
 [TypeScript for JS Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
@@ -157,8 +166,12 @@ interface User {
 
 [TS handbook - the basic](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
 
+<details>
+  <summary>See gif</summary>
+
 ![chrome_ZZjIfHxddc](https://user-images.githubusercontent.com/35031228/174902134-f99b827a-bfe0-48c3-b681-0244493a3639.gif)
 
+</details>
 
 ## Day 9
 
@@ -194,7 +207,12 @@ type Window = {
 
 - ☕ bubble tea api: the page will handle the order, if the order exists in the DB, update the count, and if not, insert the new order
 
-![chrome_jpMLpvQ1Au](https://user-images.githubusercontent.com/35031228/175402696-ac72649a-a44c-4174-b35d-988455e4200a.gif)
+<details>
+  <summary>See gif</summary>
+
+  ![chrome_jpMLpvQ1Au](https://user-images.githubusercontent.com/35031228/175402696-ac72649a-a44c-4174-b35d-988455e4200a.gif)
+
+</details>
 
 [Back to top](#links)
 
@@ -206,7 +224,13 @@ type Window = {
   - added history content and sources
 - ☕ TypeScript: went through TS - types, function, and complex types lessons on Codecademy
 
+
+<details>
+  <summary>See gif</summary>
+
 ![chrome_bzA4hTJFy0](https://user-images.githubusercontent.com/35031228/175665790-a0c76bf8-1336-4743-ac4e-550adc5f289d.gif)
+</details>
+
 
 ## Day 12
 
@@ -216,8 +240,12 @@ type Window = {
   - set up leaderboard
 - ☕ TypeScript: went through union types lesson on Codecademy
 
+<details>
+  <summary>See gif</summary>
+
 ![chrome_Nr4ViwDUgc](https://user-images.githubusercontent.com/35031228/175832501-efa446b9-5e4c-458c-8f13-7675648645e6.gif)
 
+</details>
 
 ## Day 13
 
