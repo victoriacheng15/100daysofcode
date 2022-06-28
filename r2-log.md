@@ -218,7 +218,7 @@ type Window = {
 
 ## Day 11
 
-- ☕ DSA: solved 1 codewears kata
+- ☕ DSA: solved 1 codewars kata
 - ☕ bubble tea api: 
   - fixed the issue that you can submit 2 tea types
   - added history content and sources
@@ -234,7 +234,7 @@ type Window = {
 
 ## Day 12
 
-- ☕ DSA: solved 1 codewears kata
+- ☕ DSA: solved 1 codewars kata
 - ☕ bubble tea api: 
   - overhualed colors/theme
   - set up leaderboard
@@ -249,7 +249,19 @@ type Window = {
 
 ## Day 13
 
+- ☕ DSA: learned about link lists
+- ☕ bubble tea api: refactored JS code and clean up css
+- ☕ GitHub action: learned about automate workflow from [hello-github-actuibs](https://github.com/skills/hello-github-actions)
+
+[Introduction to Linked Lists by CS Dojo](https://www.youtube.com/watch?v=WwfhLC16bis&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H&index=5)
+
 ## Day 14
+
+- ☕ DSA: solved 4 codewars kata
+- ☕ bubble tea api: hosted the app on heroku and updated readme
+- ☕ TDD: watched mocking basics part 4
+
+[Unit testing in Javascript by fun fun function](https://www.youtube.com/playlist?list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr)
 
 ## Day 15
 
