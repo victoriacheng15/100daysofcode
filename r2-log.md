@@ -265,6 +265,13 @@ type Window = {
 
 ## Day 15
 
+- ☕ DSA: solved 2 codewars kata and Big-O notation
+- ☕ TDD: watched unit testing in JS, mocking part 5, and red, green, refactor, and mocks
+
+[Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=1022s)
+
+[Unit testing in Javascript by fun fun function](https://www.youtube.com/playlist?list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr)
+
 [Back to top](#links)
 
 ## Day 16
