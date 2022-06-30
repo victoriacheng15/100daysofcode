@@ -276,6 +276,12 @@ type Window = {
 
 ## Day 16
 
+- ☕ DSA: solved 2 codewars kata and Big-O notation
+- ☕ Frontend practice: set up folder and files for rest-countires-api 
+- ☕ Resume: reviewed and edited content
+
+[How to Test In React - React Testing Library + Jest Tutorial](https://www.youtube.com/watch?v=Vp_76zdHkV8)
+
 ## Day 17 
 
 ## Day 18
