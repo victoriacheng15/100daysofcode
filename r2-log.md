@@ -276,7 +276,7 @@ type Window = {
 
 ## Day 16
 
-- ☕ DSA: solved 2 codewars kata and Big-O notation
+- ☕ DSA: solved 2 codewars kata
 - ☕ Frontend practice: set up folder and files for rest-countires-api 
 - ☕ Resume: reviewed and edited content
 
@@ -284,7 +284,18 @@ type Window = {
 
 ## Day 17 
 
+- ☕ React: read/review React docs beta version
+- ☕ TDD: watched video #1 to #3
+
+[React Docs](https://beta.reactjs.org/)
+
 ## Day 18
+
+- ☕ DSA: solved 2 leetcode
+- ☕ React: read/review React docs beta version
+- ☕ TDD: watched video #3 to #6
+
+[React Testing Library Tutorial #1 By Laith on Net Ninja Channel](https://www.youtube.com/watch?v=7dTTFW7yACQ&list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ&index=2)
 
 ## Day 19
 
