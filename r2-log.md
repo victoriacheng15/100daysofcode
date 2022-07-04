@@ -299,6 +299,12 @@ type Window = {
 
 ## Day 19
 
+- ☕ DSA: solved 1 leetcode
+- ☕ TDD: watched React Testing Library on NetNinja Channel video 7 to 14
+- ☕ TypeScript: reviewed with scrimba's TS video
+
+[React Testing Library Tutorial #1 By Laith on Net Ninja Channel](https://www.youtube.com/watch?v=7dTTFW7yACQ&list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ&index=2)
+
 ## Day 20
 
 [Back to top](#links)
