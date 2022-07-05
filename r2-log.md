@@ -307,6 +307,13 @@ type Window = {
 
 ## Day 20
 
+- ☕ DSA: solved 1 leetcode
+- ☕ TDD: read/reviewd react testing library
+- ☕ Bubble tea app: looked into touch api for drag and drop
+- ☕ Frontend practice: started on rest country api with tailwind css config and header componment
+
+[Drag and Drop (DnD) for mobile browsers](https://medium.com/@deepakkadarivel/drag-and-drop-dnd-for-mobile-browsers-fc9bcd1ad3c5)
+
 [Back to top](#links)
 
 ## Day 21
