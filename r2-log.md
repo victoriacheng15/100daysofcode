@@ -318,6 +318,15 @@ type Window = {
 
 ## Day 21
 
+- ☕ DSA: solved 1 codewars kata
+- ☕ Bubble tea app: checked out touch api and added "click to add" feature for mobile devices
+
+The touch api is a lot more than I originally think. I couldn't think of way to implement to the app. I decided on drag and drop just for learning how to implement reason. So The plan changed, I decided to implement "click to add" feature for mobile devices. Users now can submit their clicked choices.
+
+I also learned ways to opimization for resize event listener. If no throttle or timeout added, the resize event listener will keep firing the event as you change the window size, this could cause lag or screen frozen on your computer which is not a good thing. I implemented setTimeout with a little delay so the resize will not keep firing with a tiny change.
+
+[Optimizing window.onresize](https://bencentra.com/code/2015/02/27/optimizing-window-resize.html)
+
 ## Day 22
 
 ## Day 23
