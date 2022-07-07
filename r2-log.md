@@ -329,6 +329,13 @@ I also learned ways to opimization for resize event listener. If no throttle or 
 
 ## Day 22
 
+- ☕ DSA: solved 1 codewars kata
+- ☕ Frontend practice: added main compoment for dropdown and input elements
+
+I was struggling to add React Testing Library to vite react app. After googling few articles, I finally got it work.
+
+[Setting up RTL in vite react project](https://www.linkedin.com/pulse/setting-up-rtl-vite-react-project-william-ku/)
+
 ## Day 23
 
 ## Day 24
