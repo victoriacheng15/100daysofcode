@@ -338,6 +338,9 @@ I was struggling to add React Testing Library to vite react app. After googling 
 
 ## Day 23
 
+- ☕ DSA: read about static and dynamic array and linked list
+- ☕ Frontend practice: added hover and focus style on button, input and dropdown menu for visual indicators
+
 ## Day 24
 
 ## Day 25
