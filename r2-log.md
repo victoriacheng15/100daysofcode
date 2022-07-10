@@ -343,6 +343,9 @@ I was struggling to add React Testing Library to vite react app. After googling 
 
 ## Day 24
 
+- ☕ DSA: solved 2 codewars kata
+- ☕ Rest Country Api: added useEffect hook to fetch api
+
 ## Day 25
 
 [Back to top](#links)
