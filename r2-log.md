@@ -348,6 +348,12 @@ I was struggling to add React Testing Library to vite react app. After googling 
 
 ## Day 25
 
+- ☕ DSA: solved 2 codewars kata, and reviewed algo 10 to 16 from DSA with JavaScript Series
+- ☕ interview prep: added 2 JS questions
+
+[DSA with JavaScript Series](https://www.youtube.com/playlist?list=PLn2ipk-jqgZiAHiA70hOxAj8RMUeqYNK3)
+
+
 [Back to top](#links)
 
 ## Day 26
