@@ -358,6 +358,10 @@ I was struggling to add React Testing Library to vite react app. After googling 
 
 ## Day 26
 
+- ☕ DSA: solved 2 codewars kata
+- ☕ interview prep: added 4 JS questions
+- ☕ Rest Country Api: got the fetch work
+
 ## Day 27
 
 ## Day 28
