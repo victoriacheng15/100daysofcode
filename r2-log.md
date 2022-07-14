@@ -364,7 +364,14 @@ I was struggling to add React Testing Library to vite react app. After googling 
 
 ## Day 27
 
+- ☕ DSA: solved 2 codewars kata and reviewed algo 17 to 26 from DSA with JavaScript Series
+- ☕ Interview prep: added 2 JS questions
+- ☕ Pagination: learned about how to implement pagiantion in react
+
 ## Day 28
+
+- ☕ Interview prep: added 2 JS questions
+- ☕ Rest Country Api: implemented pagination feature
 
 ## Day 29
 
